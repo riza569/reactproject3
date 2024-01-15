@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactproject3/static/css/main.3bf5c1ca.css",
+    "main.js": "/reactproject3/static/js/main.72e10bbb.js",
+    "static/media/Group 77.png": "/reactproject3/static/media/Group 77.072626b8e8ff69932f03.png",
+    "index.html": "/reactproject3/index.html",
+    "main.3bf5c1ca.css.map": "/reactproject3/static/css/main.3bf5c1ca.css.map",
+    "main.72e10bbb.js.map": "/reactproject3/static/js/main.72e10bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf5c1ca.css",
+    "static/js/main.72e10bbb.js"
+  ]
+}
